@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+sqlalchemy
+alembic
+pydantic
+langchain
+openai
+python-dotenv
+psycopg2-binary   # PostgreSQL
+python-multipart
